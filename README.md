@@ -145,10 +145,3 @@ Feel free to reach out to me for any collaboration, project work, or consultancy
 
 ---
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/survil-dhaduk/survil-dhaduk/output/snake.svg" alt="Snake animation" />
-
-###
