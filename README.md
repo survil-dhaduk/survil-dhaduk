@@ -140,4 +140,9 @@ Feel free to reach out to me for any collaboration, project work, or consultancy
 [![](https://visitcount.itsvg.in/api?id=survil-dhaduk&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ---
+### 📈 GitHub Stats
+
+<p align="">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=survil-dhaduk" alt="GitHub Profile Details">
+</p>
 
