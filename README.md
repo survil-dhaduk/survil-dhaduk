@@ -1,6 +1,5 @@
-
-<h1 align="center">Hi 👋, I'm survil dhaduk</h1>
 ![Header](./github-header-image.png)
+
 <h2 align="center">💫 Passionate Mobile App Developer from India</h1>
 
 
