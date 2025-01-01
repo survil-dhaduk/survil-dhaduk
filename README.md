@@ -5,41 +5,66 @@
 
 <h3 align="center">I am a passionate and expert mobile app developer with proficiency in various mobile technologies. I specialize in building high-quality, scalable, and secure mobile apps, focusing on performance, user experience, and clean architecture.</h3>
 
-## 📊 GitHub Stats
+#
+# 👋 About Me:
+🛠 I’m currently working on
+Leading a team to develop cross-platform mobile apps using Flutter, focusing on clean code, scalability, and user-friendly design.
+
+🤝 I’m looking to collaborate on
+Innovative Flutter projects, clean architecture, and mentoring developers to improve code quality and performance.
+
+💡 I’m looking for help with
+Exploring advanced backend technologies, integrating efficient APIs, and improving CI/CD pipelines for mobile apps.
+
+🌱 I’m currently learning
+System design, Block state management, and backend development with Node.js and TypeScript to become a full-stack developer.
+
+💬 Ask me about
+Flutter development, clean architecture, team management, and optimizing cross-platform mobile apps.
+
+⚡ Fun fact
+I started as a solo developer, but now I enjoy building and leading teams that create impactful apps!
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=survil-dhaduk&show_icons=true&locale=en&layout=compact" alt="survil-dhaduk" /></p>
+## 🚀 Skills
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=survil-dhaduk&show_icons=true&locale=en" alt="survil-dhaduk" /></p>
+### **📱 Mobile Development**
+- **Flutter** (Cross-platform mobile development for iOS & Android)
+- **FlutterFlow** (Cross-platform mobile development for iOS & Android)
+- **Android Native** (Java, Kotlin)
+- **iOS Native** (Swift, Objective-C)
+- **React Native** (Cross-platform mobile development)
+- **Dart** (Flutter & Backend with Dart)
+- **Java** (Android Development)
+- **Swift** (iOS Native Development)
+- **Firebase** (Backend-as-a-Service for real-time databases, authentication, and cloud functions)
+- **Google Analytics** (App tracking & insights)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=survil-dhaduk&" alt="survil-dhaduk" /></p>
+### **💻 Backend Development**
+- **Node.js** (Server-side JavaScript development)
+- **MongoDB** (NoSQL database management)
 
+### **⚡ App Optimization**
+- **Secure App Development** (Best practices for security, data encryption)
+- **Smooth & Fast Apps** (Optimizing performance and reducing app latency)
+- **Clean Architecture** (MVVM, BLoC, Provider, Riverpod, and other design patterns)
+- **State Management** (Provider, Riverpod, Bloc, GetX, MobX)
+- **Git** (Version control and collaboration)
+- **Jira** (Agile project management)
 
+### **🏅 Certifications & Achievements**
+- **Certified Google Play Store Developer** (Listed apps on the Play Store)
+- **App Security** (Experience with securing mobile apps against vulnerabilities)
+- **App Store Optimization (ASO)** (Improving app visibility in app stores)
+
+### **🔧 Other Skills**
+- **Debugging & Testing** (Unit tests, widget tests, integration tests)
+- **CI/CD Integration** (Automated build and deployment processes)
+- **Agile & Scrum** (Experience working with Agile methodologies)
+- **UI/UX Design** (Collaborating with designers to implement beautiful user interfaces)
+- **Multilingual App Development** (Supporting multiple languages in apps)
 
 ---
-
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=survil-dhaduk&theme=shadow_red&no-frame=false&no-bg=false&margin-w=4)
-
----
-<p align="">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=survil-dhaduk" alt="GitHub Profile Details">
-</p>
-
-### ✍️ Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-
-### 🔝 Top Contributed Repo
-
-![](https://github-contributor-stats.vercel.app/api?username=survil-dhaduk&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-
-
 ## 💻 Tech Stack
 
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) 
@@ -106,67 +131,39 @@
 
 </td></tr></table>  
 
-<br/>  
+<br/> 
+---
+## 📊 GitHub Stats
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=survil-dhaduk&show_icons=true&locale=en&layout=compact" alt="survil-dhaduk" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=survil-dhaduk&show_icons=true&locale=en" alt="survil-dhaduk" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=survil-dhaduk&" alt="survil-dhaduk" /></p>
 
 
 
-# 👋 About Me:
-🛠 I’m currently working on
-Leading a team to develop cross-platform mobile apps using Flutter, focusing on clean code, scalability, and user-friendly design.
+---
 
-🤝 I’m looking to collaborate on
-Innovative Flutter projects, clean architecture, and mentoring developers to improve code quality and performance.
+## 🏆 GitHub Trophies
 
-💡 I’m looking for help with
-Exploring advanced backend technologies, integrating efficient APIs, and improving CI/CD pipelines for mobile apps.
+![](https://github-profile-trophy.vercel.app/?username=survil-dhaduk&theme=shadow_red&no-frame=false&no-bg=false&margin-w=4)
 
-🌱 I’m currently learning
-System design, Block state management, and backend development with Node.js and TypeScript to become a full-stack developer.
+---
+<p align="">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=survil-dhaduk" alt="GitHub Profile Details">
+</p>
 
-💬 Ask me about
-Flutter development, clean architecture, team management, and optimizing cross-platform mobile apps.
+### ✍️ Random Dev Quote
 
-⚡ Fun fact
-I started as a solo developer, but now I enjoy building and leading teams that create impactful apps!
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+---
 
-## 🚀 Skills
+### 🔝 Top Contributed Repo
 
-### **📱 Mobile Development**
-- **Flutter** (Cross-platform mobile development for iOS & Android)
-- **FlutterFlow** (Cross-platform mobile development for iOS & Android)
-- **Android Native** (Java, Kotlin)
-- **iOS Native** (Swift, Objective-C)
-- **React Native** (Cross-platform mobile development)
-- **Dart** (Flutter & Backend with Dart)
-- **Java** (Android Development)
-- **Swift** (iOS Native Development)
-- **Firebase** (Backend-as-a-Service for real-time databases, authentication, and cloud functions)
-- **Google Analytics** (App tracking & insights)
-
-### **💻 Backend Development**
-- **Node.js** (Server-side JavaScript development)
-- **MongoDB** (NoSQL database management)
-
-### **⚡ App Optimization**
-- **Secure App Development** (Best practices for security, data encryption)
-- **Smooth & Fast Apps** (Optimizing performance and reducing app latency)
-- **Clean Architecture** (MVVM, BLoC, Provider, Riverpod, and other design patterns)
-- **State Management** (Provider, Riverpod, Bloc, GetX, MobX)
-- **Git** (Version control and collaboration)
-- **Jira** (Agile project management)
-
-### **🏅 Certifications & Achievements**
-- **Certified Google Play Store Developer** (Listed apps on the Play Store)
-- **App Security** (Experience with securing mobile apps against vulnerabilities)
-- **App Store Optimization (ASO)** (Improving app visibility in app stores)
-
-### **🔧 Other Skills**
-- **Debugging & Testing** (Unit tests, widget tests, integration tests)
-- **CI/CD Integration** (Automated build and deployment processes)
-- **Agile & Scrum** (Experience working with Agile methodologies)
-- **UI/UX Design** (Collaborating with designers to implement beautiful user interfaces)
-- **Multilingual App Development** (Supporting multiple languages in apps)
+![](https://github-contributor-stats.vercel.app/api?username=survil-dhaduk&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 
