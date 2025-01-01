@@ -39,8 +39,6 @@
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=survil-dhaduk&icon=0&color=0)](https://visitcount.itsvg.in)
-
 
 ## 💻 Tech Stack
 
@@ -191,6 +189,4 @@ Feel free to reach out to me for any collaboration, project work, or consultancy
 </p>
 
 ---
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=survil-dhaduk&color=blue&&style=flat " align="center" />
-</div>  
+[![](https://visitcount.itsvg.in/api?id=survil-dhaduk&label=Profile%20Views&color=1&icon=0&pretty=true)](https://visitcount.itsvg.in)
