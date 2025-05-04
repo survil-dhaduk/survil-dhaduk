@@ -40,6 +40,21 @@ I started as a solo developer, but now I enjoy building and leading teams that c
 - **Firebase** (Backend-as-a-Service for real-time databases, authentication, and cloud functions)
 - **Google Analytics** (App tracking & insights)
 
+  ## 💻 React Web Development
+
+- **React.js** – JavaScript library for building user interfaces
+- **Next.js** – React framework for server-side rendering and static site generation
+- **TypeScript** – Typed superset of JavaScript for large-scale React apps
+- **Redux / Zustand / React Query** – State and data management tools
+- **Tailwind CSS / MUI / Chakra UI** – Modern UI frameworks for styling
+- **React Router** – Declarative routing for React applications
+- **Axios / Fetch API** – HTTP clients for API communication
+- **Jest / React Testing Library / Cypress** – Tools for unit, integration, and E2E testing
+- **Firebase / Supabase / Appwrite** – Backend-as-a-Service options for authentication, database, and hosting
+- **Vite / Webpack** – Fast bundlers and build tools for React projects
+- **Git & GitHub** – Version control and collaboration tools
+
+
 ### **💻 Backend Development**
 - **Node.js** (Server-side JavaScript development)
 - **MongoDB** (NoSQL database management)
