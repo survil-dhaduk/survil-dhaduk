@@ -28,7 +28,8 @@ I started as a solo developer, but now I enjoy building and leading teams that c
 
 ## 🚀 Skills
 
-### **📱 Mobile Development**
+## 📱 Mobile Development
+
 - **Flutter** (Cross-platform mobile development for iOS & Android)
 - **FlutterFlow** (Cross-platform mobile development for iOS & Android)
 - **Android Native** (Java, Kotlin)
@@ -55,11 +56,13 @@ I started as a solo developer, but now I enjoy building and leading teams that c
 - **Git & GitHub** – Version control and collaboration tools
 
 
-### **💻 Backend Development**
+## 💻 Backend Development
+
 - **Node.js** (Server-side JavaScript development)
 - **MongoDB** (NoSQL database management)
 
-### **⚡ App Optimization**
+## ⚡ App Optimization
+
 - **Secure App Development** (Best practices for security, data encryption)
 - **Smooth & Fast Apps** (Optimizing performance and reducing app latency)
 - **Clean Architecture** (MVVM, BLoC, Provider, Riverpod, and other design patterns)
@@ -67,7 +70,8 @@ I started as a solo developer, but now I enjoy building and leading teams that c
 - **Git** (Version control and collaboration)
 - **Jira** (Agile project management)
 
-### **🏅 Certifications & Achievements**
+## 🏅 Certifications & Achievements**
+
 - **Certified Google Play Store Developer** (Listed apps on the Play Store)
 - **App Security** (Experience with securing mobile apps against vulnerabilities)
 - **App Store Optimization (ASO)** (Improving app visibility in app stores)
