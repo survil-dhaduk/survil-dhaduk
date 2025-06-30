@@ -1,4 +1,4 @@
-![Header](./github-header-image.png)
+![Header](./profile_banner.png)
 
 <h2 align="center">💫 Passionate Mobile App Developer from India</h1>
 
