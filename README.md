@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<img align="right" alt="Coding" width="400" src="survil-dhaduk/survil-dhaduk/gif3.gif">
 
 I'm a **passionate mobile app developer** from India with expertise in building **high-quality, scalable, and secure mobile applications**. I specialize in cross-platform development, clean architecture, and **AI integration**, leading teams to create impactful digital experiences with cutting-edge AI capabilities.
 
