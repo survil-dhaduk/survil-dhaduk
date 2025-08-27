@@ -1,208 +1,229 @@
-![Header](./profile_banner.png)
+# 👋 Hi there, I'm Survil Dhaduk!
 
-<h2 align="center">💫 Passionate Mobile App Developer from India</h1>
-
-
-<h3 align="center">I am a passionate and expert mobile app developer with proficiency in various mobile technologies. I specialize in building high-quality, scalable, and secure mobile apps, focusing on performance, user experience, and clean architecture.</h3>
-
-#
-# 👋 About Me:
-🛠 I’m currently working on
-Leading a team to develop cross-platform mobile apps using Flutter, focusing on clean code, scalability, and user-friendly design.
-
-🤝 I’m looking to collaborate on
-Innovative Flutter projects, clean architecture, and mentoring developers to improve code quality and performance.
-
-💡 I’m looking for help with
-Exploring advanced backend technologies, integrating efficient APIs, and improving CI/CD pipelines for mobile apps.
-
-🌱 I’m currently learning
-System design, Block state management, and backend development with Node.js and TypeScript to become a full-stack developer.
-
-💬 Ask me about
-Flutter development, clean architecture, team management, and optimizing cross-platform mobile apps.
-
-⚡ Fun fact
-I started as a solo developer, but now I enjoy building and leading teams that create impactful apps!
-
-
-## 🚀 Skills
-
-## 📱 Mobile Development
-
-- **Flutter** (Cross-platform mobile development for iOS & Android)
-- **FlutterFlow** (Cross-platform mobile development for iOS & Android)
-- **Android Native** (Java, Kotlin)
-- **iOS Native** (Swift, Objective-C)
-- **React Native** (Cross-platform mobile development)
-- **Dart** (Flutter & Backend with Dart)
-- **Java** (Android Development)
-- **Swift** (iOS Native Development)
-- **Firebase** (Backend-as-a-Service for real-time databases, authentication, and cloud functions)
-- **Google Analytics** (App tracking & insights)
-
-  ## 💻 React Web Development
-
-- **React.js** – JavaScript library for building user interfaces
-- **Next.js** – React framework for server-side rendering and static site generation
-- **TypeScript** – Typed superset of JavaScript for large-scale React apps
-- **Redux / Zustand / React Query** – State and data management tools
-- **Tailwind CSS / MUI / Chakra UI** – Modern UI frameworks for styling
-- **React Router** – Declarative routing for React applications
-- **Axios / Fetch API** – HTTP clients for API communication
-- **Jest / React Testing Library / Cypress** – Tools for unit, integration, and E2E testing
-- **Firebase / Supabase / Appwrite** – Backend-as-a-Service options for authentication, database, and hosting
-- **Vite / Webpack** – Fast bundlers and build tools for React projects
-- **Git & GitHub** – Version control and collaboration tools
-
-
-## 💻 Backend Development
-
-- **Node.js** (Server-side JavaScript development)
-- **MongoDB** (NoSQL database management)
-
-## ⚡ App Optimization
-
-- **Secure App Development** (Best practices for security, data encryption)
-- **Smooth & Fast Apps** (Optimizing performance and reducing app latency)
-- **Clean Architecture** (MVVM, BLoC, Provider, Riverpod, and other design patterns)
-- **State Management** (Provider, Riverpod, Bloc, GetX, MobX)
-- **Git** (Version control and collaboration)
-- **Jira** (Agile project management)
-
-## 🏅 Certifications & Achievements**
-
-- **Certified Google Play Store Developer** (Listed apps on the Play Store)
-- **App Security** (Experience with securing mobile apps against vulnerabilities)
-- **App Store Optimization (ASO)** (Improving app visibility in app stores)
-
-### **🔧 Other Skills**
-- **Debugging & Testing** (Unit tests, widget tests, integration tests)
-- **CI/CD Integration** (Automated build and deployment processes)
-- **Agile & Scrum** (Experience working with Agile methodologies)
-- **UI/UX Design** (Collaborating with designers to implement beautiful user interfaces)
-- **Multilingual App Development** (Supporting multiple languages in apps)
-
----
-## 💻 Tech Stack
-
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) 
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) 
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) 
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-
----
-
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
-
-
-
-### Frontend  
-<div align="center">  
-<a href="https://flutter.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="50" /></a>  
-<a href="https://dart.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dartlang-icon.svg" alt="Dart" height="50" /></a>  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
-<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
-<a href="https://www.android.com/intl/en_in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android" height="50" /></a>  
-<a href="https://kotlinlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kotlinlang-icon.svg" alt="Kotlin" height="50" /></a>  
-<a href="https://developer.apple.com/swift/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/swift-original-wordmark.svg" alt="Swift" height="50" /></a>  
-<a href="https://mui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="50" /></a>  
-<a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" /></a>  
-<a href="https://www.cordova.apache.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cordova.png" alt="Cordova" height="50" /></a>  
-<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
-<a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" /></a>  
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=2000&pause=100&color=2196F3&center=true&vCenter=true&multiline=true&width=900&height=120&lines=Mobile+App+Developer+%7C+Team+Leader;Flutter+Expert+%7C+Full-Stack+Developer;Building+Scalable+Mobile+Solutions" alt="Typing SVG" />
 </div>
 
-</td><td valign="top" width="33%">
-
-
-
-### Backend  
-<div align="center">  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
-<a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /></a>  
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
-<a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" /></a>  
-</div>
-
-</td><td valign="top" width="33%">
-
-
-
-### DevOps  
-<div align="center">  
-<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://azure.microsoft.com/en-in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" alt="Azure" height="50" /></a>  
-</div>
-
-</td></tr></table>  
-
-<br/> 
 ---
-## 📊 GitHub Stats
 
+## 🚀 About Me
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=survil-dhaduk&show_icons=true&locale=en&layout=compact" alt="survil-dhaduk" /></p>
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=survil-dhaduk&show_icons=true&locale=en" alt="survil-dhaduk" /></p>
+I'm a **passionate mobile app developer** from India with expertise in building **high-quality, scalable, and secure mobile applications**. I specialize in cross-platform development, clean architecture, and **AI integration**, leading teams to create impactful digital experiences with cutting-edge AI capabilities.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=survil-dhaduk&" alt="survil-dhaduk" /></p>
-
-
+- 🔭 **Currently Leading:** Cross-platform mobile development teams using Flutter & AI integration
+- 🌱 **Learning:** Advanced System Design, AI/ML Integration, Automation Workflows
+- 👯 **Open to:** Innovative Flutter projects, AI-powered apps, and mentoring developers
+- 💡 **Focus Areas:** Clean Architecture, AI Integration, Performance Optimization, Team Leadership
+- ⚡ **Fun Fact:** Started as a solo developer, now building AI-powered teams and applications!
 
 ---
 
-## 🏆 GitHub Trophies
+## 🛠️ Tech Arsenal
 
-![](https://github-profile-trophy.vercel.app/?username=survil-dhaduk&theme=shadow_red&no-frame=false&no-bg=false&margin-w=4)
-
----
-<p align="">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=survil-dhaduk" alt="GitHub Profile Details">
-</p>
-
-### ✍️ Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-
-### 🔝 Top Contributed Repo
-
-![](https://github-contributor-stats.vercel.app/api?username=survil-dhaduk&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-
-### "Turning ideas into reality, one line of code at a time."
-
----
-
-## 📬 Contact Me
-
-Feel free to reach out to me for any collaboration, project work, or consultancy. You can connect with me on:
-
-- **Email**: [survildhaduk@gmail.com](mailto:survildhaduk@gmail.com)
-
----
-
-## 🌐 Socials
+### 📱 **Mobile Development**
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/survil-dhaduk/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/survil-dhaduk/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/25111804/survil-dhaduk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/25111804/survil-dhaduk" height="30" width="40" /></a>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+</p>
+
+### 🌐 **Web Development**
+<p align="left">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" />
+</p>
+
+### ⚙️ **Backend & Database**
+<p align="left">
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
+
+### 🤖 **AI & Automation**
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white" />
+  <img src="https://img.shields.io/badge/N8N-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flowise_AI-6366F1?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prompt_Engineering-FF6B35?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Generative_AI-00D4AA?style=for-the-badge&logo=openai&logoColor=white" />
+</p>
+
+### 🔧 **Tools & Platforms**
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 </p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=survil-dhaduk&label=Profile%20Views&color=1&icon=0&pretty=true)](https://visitcount.itsvg.in)
+
+## 🎯 Core Expertise
+
+<table>
+<tr>
+<td width="35%">
+
+### 🏗️ **Architecture & Design**
+- Clean Architecture (MVVM, BLoC)
+- State Management (Provider, Riverpod, BLoC, GetX)
+- Design Patterns & Best Practices
+- Scalable App Architecture
+
+</td>
+<td width="35%">
+
+### 🤖 **AI Integration & Development**
+- AI-Powered Mobile App Integration
+- Prompt Engineering & Optimization
+- Workflow Automation with N8N
+- Conversational AI with Flowise
+- LangChain Implementation
+
+</td>
+<td width="35%">
+
+### 🚀 **Performance & Security**
+- App Performance Optimization
+- Security Best Practices
+- Data Encryption & Protection
+- CI/CD Pipeline Integration
+
+</td>
+</tr>
+<tr>
+<td width="35%">
+
+### 📈 **Project Management**
+- Team Leadership & Mentoring
+- Agile & Scrum Methodologies
+- Code Review & Quality Assurance
+- Cross-functional Collaboration
+
+</td>
+<td width="35%">
+  
+### 🎨 **UI/UX & Testing**
+- Responsive Design Implementation
+- Unit & Integration Testing
+- App Store Optimization (ASO)
+- Multilingual App Development
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🏆 Achievements & Certifications
+
+<div align="center">
+
+| 🎖️ **Certification** | 📱 **Achievement** |
+|:---|:---|
+| Google Play Store Developer | ✅ Published Multiple Apps |
+| App Security Specialist | 🔒 Secured Mobile Applications |
+| ASO Expert | 📊 Improved App Store Visibility |
+| Team Leadership | 👥 Led Cross-Platform Development Teams |
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=survil-dhaduk&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=survil-dhaduk&layout=compact&langs_count=8&theme=tokyonight"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=survil-dhaduk&theme=tokyonight" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.ryo-ma.vercel.app/?username=survil-dhaduk&theme=tokyonight&no-frame=true&row=1&column=6" />
+</div>
+
+---
+
+## 🎯 Current Focus
+
+```dart
+class SurvilDhaduk {
+  final String currentFocus = "Leading Flutter Development Teams";
+  final List<String> learning = [
+    "Advanced System Design",
+    "AI/ML Integration & Automation",
+    "LangChain & Generative AI",
+    "Advanced Prompt Engineering"
+  ];
+  
+  Future<void> collaborate() async {
+    print("Always open to innovative Flutter projects!");
+    print("Let's build something amazing together 🚀");
+  }
+}
+```
+
+---
+
+## 💡 Random Dev Wisdom
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</div>
+
+---
+
+## 🌟 Featured Contributions
+
+<div align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=survil-dhaduk&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
+</div>
+
+---
+
+## 🤝 Let's Connect!
+
+<div align="center">
+
+**"Turning innovative ideas into reality, one line of code at a time."**
+
+<p>
+  <a href="mailto:survildhaduk@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/survil-dhaduk/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://stackoverflow.com/users/25111804/survil-dhaduk">
+    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=survil-dhaduk&style=for-the-badge&color=blue" alt="Profile Views" />
+</div>
+
+### 💝 Thanks for visiting! 
+*Feel free to reach out for collaborations, mentoring, or just a friendly chat about mobile development!*
+
+</div>
