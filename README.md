@@ -104,7 +104,9 @@ Workflow automation for resume processing, candidate screening, and interview co
 
 ## 🎓 Certifications
 
-- Google Play Academy — Store Listing
+
+- Engineer AI Agents with Agent Development Kit (ADK) — Google 
+- Google Play Academy — Store Listing  
 - Google Analytics Individual Qualification — earned April 2024
 - Agile with Atlassian Jira — Coursera
 - CCNA Certification — Sun Infosystems Pvt. Ltd.
